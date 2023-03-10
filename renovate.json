@@ -6,8 +6,7 @@
     {
       "groupName": "Terraform required_version",
       "groupSlug": "tf_required_version",
-      "matchDepTypes": ["required_version"],
-     "versioning": "loose"
+      "matchDepTypes": ["required_version"]
     }
 ]
 }
