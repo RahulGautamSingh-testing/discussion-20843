@@ -1,6 +1,7 @@
 {
 "terraform": {
     "fileMatch": ["(^|/)terragrunt\\.hcl$"],
+    "versioning": "loose"
   },
 "packageRules": [
     {
