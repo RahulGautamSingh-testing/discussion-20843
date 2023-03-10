@@ -1,0 +1,12 @@
+{
+"terraform": {
+    "fileMatch": ["(^|/)terragrunt\\.hcl$"],
+  },
+"packageRules": [
+    {
+      "groupName": "Terraform required_version",
+      "groupSlug": "tf_required_version",
+      "matchDepTypes": ["required_version"]
+    }
+]
+}
